@@ -1,0 +1,20 @@
+body {
+  background-color: darkslategray;
+  text-align: center;
+}
+
+h1 {
+  color: cadetblue;
+  font: size 50px;
+}
+
+#patrick {
+  color: navy;
+}
+
+.texto {
+  font: size 45px;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
